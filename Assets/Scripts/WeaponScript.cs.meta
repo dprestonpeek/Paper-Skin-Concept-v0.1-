@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 42922ed3570a3824f9b04f9dc32cd6c4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - weapon: {instanceID: 0}
+  - weaponAudio: {instanceID: 0}
+  - cock: {instanceID: 0}
+  - fire: {instanceID: 0}
+  - shell: {instanceID: 0}
+  - noammo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

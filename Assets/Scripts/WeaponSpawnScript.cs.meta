@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d2ada9c2a1753c643aa5c238de0c0682
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawn: {fileID: 8300000, guid: 3387ced105d306e4f97025dddfa05240, type: 3}
+  - handgun: {fileID: 8833321783117052480, guid: fe6e2264b72a52d4e939139b8e8345a2,
+      type: 3}
+  - rifle: {fileID: 1279182693692120, guid: de5672de88688ef46bcb239221ef59a4, type: 3}
+  - machinegun: {fileID: 3492859657917752375, guid: 13c1f08027295634585b9804523d45f1,
+      type: 3}
+  - shotgun: {fileID: 7948602153379197833, guid: 06e562e22ea0ee449b23563219c4921b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

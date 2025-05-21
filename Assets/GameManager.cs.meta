@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 22d9417512094eb468dd5fe9e2462ad2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - track1: {fileID: 8300000, guid: e06ea7f0102f5e04db36ec7c293c8ea1, type: 3}
+  - track2: {fileID: 8300000, guid: 5ffdc1a106e5829499ce9de821d8105a, type: 3}
+  - track3: {fileID: 8300000, guid: 53dfba510c4163b4cac04ad3efeead57, type: 3}
+  - track4: {fileID: 8300000, guid: 4e77e91c3ff78004786ad8de102a0632, type: 3}
+  - track5: {fileID: 8300000, guid: 989e1bffc6f1d1647a93d6f54afbb79c, type: 3}
+  - track6: {fileID: 8300000, guid: 0eb883227408b0d45996d66d2893d028, type: 3}
+  - track7: {fileID: 8300000, guid: 5dff62e4397f08246ac01d2a306ac575, type: 3}
+  - track8: {fileID: 8300000, guid: d9a91101cb691bd48ae0bba72a049159, type: 3}
+  - track9: {fileID: 8300000, guid: bee023f733e03004a8eb682324b39920, type: 3}
+  - track10: {fileID: 8300000, guid: ff1a847b6d1588440afc9d1f67b98bfa, type: 3}
+  - track11: {fileID: 8300000, guid: 9f1e33a6a4ed6a942aa629308d3ff921, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

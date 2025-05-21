@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7f0ece82a00c13a4ebb53a049bc6a74e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - itemSpawn: {fileID: 8300000, guid: 3387ced105d306e4f97025dddfa05240, type: 3}
+  - itemPickup: {fileID: 8300000, guid: 7934f760da4da504b99d01df3b166b82, type: 3}
+  - itemDeny: {fileID: 8300000, guid: a3682813c6397aa49a0654b0e57a5d9d, type: 3}
+  - handgunAmmo: {fileID: 626649284541957127, guid: c5a41428e81e0f34a8e2efab749d97be,
+      type: 3}
+  - rifleAmmo: {fileID: 2882669702114406992, guid: dcb7009807767cc40944d8aa81c3a175,
+      type: 3}
+  - machinegunAmmo: {fileID: 4648985156441876988, guid: 4f43f4a4d1511a04aad86c540ffdcbfe,
+      type: 3}
+  - shotgunAmmo: {fileID: 5876052583687773293, guid: 9f1b7a4dbc106234f95b60e1dfa2a415,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

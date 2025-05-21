@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 36590f0d2cfc3c6479f1551e3acc97b3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - itemSpawn: {fileID: 8300000, guid: 3387ced105d306e4f97025dddfa05240, type: 3}
+  - itemPickup: {fileID: 8300000, guid: ad7a55241bceb49489ed41aa62367b81, type: 3}
+  - itemDeny: {fileID: 8300000, guid: a3682813c6397aa49a0654b0e57a5d9d, type: 3}
+  - health25: {fileID: 1358975842860167756, guid: 0b649716c865a6c44b5308afb79e19f9,
+      type: 3}
+  - health50: {fileID: 4057872876067171697, guid: 28c969913575d4249b323151169175e5,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
