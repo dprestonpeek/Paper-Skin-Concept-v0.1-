@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Security.Cryptography;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -435,6 +436,7 @@ public class PlayerMotorScript : MonoBehaviour {
         if (velocity != Vector3.zero)
         {
             rb.MovePosition(transform.position + velocity * Time.fixedDeltaTime * playerSpeed);
+            //rb.AddForce(transform.forward * playerSpeed, ForceMode.Force);
             walking = true;
         }
         else
