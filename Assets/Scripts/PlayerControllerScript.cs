@@ -39,7 +39,7 @@ public class PlayerControllerScript : MonoBehaviour {
     }
 	
 	// Update is called once per frame
-	void FixedUpdate() {
+	void Update() {
         PlayerLook();
         PlayerPause();
         
