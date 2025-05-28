@@ -16,8 +16,6 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         audioSource = GetComponent<AudioSource>();
-        
-        PlayerPrefs.DeleteAll();
     }
 
     // Update is called once per frame
