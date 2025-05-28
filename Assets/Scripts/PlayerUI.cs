@@ -10,6 +10,8 @@ public class PlayerUI : MonoBehaviour
 {
     GameManager gameManager;
     Scene field1;
+
+    //UI elements
     public PlayerControllerScript player;
     public PlayerMotorScript motor;
     public Canvas mainmenu;
@@ -72,7 +74,7 @@ public class PlayerUI : MonoBehaviour
         crosshair.text = PlayerPrefs.GetString("crosshair");
         mouseInversionY = player.mouseInversionY;
         mouseInversionX = player.mouseInversionX;
-        mouseSensitivity = PlayerPrefs.GetFloat("sensitivity");
+        mouseSensitivity = PlayerPrefs.GetFloat("sensitivity", 2);
         if (mouseInversionY == 0)
         {
             mouseInversionY = -1;
@@ -99,11 +101,7 @@ public class PlayerUI : MonoBehaviour
             inversionX.text = "YES";
         }
 
-        if (mouseSensitivity == 0)
-        {
-            mouseSensitivity = 2;
-        }
-        sensitivity.text = (mouseSensitivity).ToString();
+        sensitivity.text = (mouseSensitivity * 2).ToString();
         LoadSettings();
     }
 

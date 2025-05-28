@@ -483,10 +483,20 @@ PrefabInstance:
       propertyPath: MusicVolumeLabel
       value: 
       objectReference: {fileID: 1843866223}
+    - target: {fileID: 4213739465885878781, guid: 5a88c2613b8dcea44bdb4b7bbb23a62c,
+        type: 3}
+      propertyPath: mouseSensitivity
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4213739466173770804, guid: 5a88c2613b8dcea44bdb4b7bbb23a62c,
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4213739466296527455, guid: 5a88c2613b8dcea44bdb4b7bbb23a62c,
+        type: 3}
+      propertyPath: m_Text
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4213739466475905010, guid: 5a88c2613b8dcea44bdb4b7bbb23a62c,
         type: 3}
